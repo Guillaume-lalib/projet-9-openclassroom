@@ -5,6 +5,9 @@
 .nav-pills .nav-link {
 	color: #000
 }
+.nav-pills li span{
+	cursor: pointer;
+}
 .about-me__introduction,
 .quote,
 .quote__text {
